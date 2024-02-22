@@ -1,4 +1,4 @@
-<mxfile modified="2024-02-22T11:48:58.487Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="azYdCz9OQk6r-mIWdUSZ" version="23.1.5" type="github">
+<mxfile modified="2024-02-22T11:57:42.790Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="itYtpKIhGFX2F3637nW7" version="23.1.5" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="1434" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
         <mxCell id="IQOXaXlgt59ZtmD6kiwz-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQOXaXlgt59ZtmD6kiwz-57" target="IQOXaXlgt59ZtmD6kiwz-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IQOXaXlgt59ZtmD6kiwz-57" value="DotNet tool - Download Protocols" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+        <mxCell id="IQOXaXlgt59ZtmD6kiwz-57" value="DotNet Tool - Retrieve Version Histories&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
           <mxGeometry x="735.72" y="150" width="74.28" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IQOXaXlgt59ZtmD6kiwz-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IQOXaXlgt59ZtmD6kiwz-52" target="IQOXaXlgt59ZtmD6kiwz-59">
@@ -153,17 +153,23 @@
         <mxCell id="IQOXaXlgt59ZtmD6kiwz-63" value="IDms - SLNet Calls" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.triggers;fillColor=#0078D7;" vertex="1" parent="1">
           <mxGeometry x="823" y="650" width="47" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IQOXaXlgt59ZtmD6kiwz-65" value="DotNet tool&amp;nbsp;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
-          <mxGeometry x="250" y="150" width="74.28" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="IQOXaXlgt59ZtmD6kiwz-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQOXaXlgt59ZtmD6kiwz-66" target="IQOXaXlgt59ZtmD6kiwz-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IQOXaXlgt59ZtmD6kiwz-66" value="Check Version" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
-          <mxGeometry x="555.72" y="150" width="74.28" height="40" as="geometry" />
+        <mxCell id="IQOXaXlgt59ZtmD6kiwz-66" value="python - perform&amp;nbsp;zero-shot-classification" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="493.72" y="150" width="74.28" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IQOXaXlgt59ZtmD6kiwz-68" value="Run&amp;nbsp;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
-          <mxGeometry x="401.44000000000005" y="150" width="74.28" height="40" as="geometry" />
+        <mxCell id="IQOXaXlgt59ZtmD6kiwz-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQOXaXlgt59ZtmD6kiwz-68" target="IQOXaXlgt59ZtmD6kiwz-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQOXaXlgt59ZtmD6kiwz-68" value="DotNet Tool - Calculate Quality Scores" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="250.00000000000006" y="150" width="74.28" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQOXaXlgt59ZtmD6kiwz-72" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="1">
+          <mxGeometry x="505.86" y="220" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IQOXaXlgt59ZtmD6kiwz-73" value="Copy Results &lt;br&gt;to CDMR FileSystem" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="80.00000000000007" y="150" width="74.28" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
