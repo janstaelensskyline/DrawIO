@@ -1,6 +1,6 @@
-<mxfile modified="2024-02-22T16:45:15.857Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="NpPnfLBvx7lKlAcCkcXJ" version="23.1.5" type="github">
+<mxfile modified="2024-02-23T09:21:25.240Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="26DgHWj9NaSg8u2UbMJk" version="23.1.5" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
-    <mxGraphModel dx="1434" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,7 +256,7 @@
         <mxCell id="IQOXaXlgt59ZtmD6kiwz-102" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" parent="1" vertex="1">
           <mxGeometry x="453.72" y="430" width="44" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2Yc69qHCefntaHBGt4n7-1" value="TODO: BUFFER here. Do the collection in chunks.&lt;br&gt;Not in 1 go. (1000 elements)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Yc69qHCefntaHBGt4n7-1" value="TODO: BUFFER here. Do the collection in chunks.&lt;br&gt;Not in 1 go. (1000 elements)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="493.72" y="730" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2Yc69qHCefntaHBGt4n7-2" value="TODO: Check here, if we can use a copy, or need to use a cloud location or user defined API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
