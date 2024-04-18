@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T14:24:29.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="S653w88o3u3AcvKXdToI" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T14:25:34.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="keh7ljaarpzlASCn-jrp" version="24.2.5" type="github">
   <diagram name="Pagina-1" id="wJ1V50IH1IuiKim2gVSn">
     <mxGraphModel dx="3088" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
         </mxCell>
         <mxCell id="Whz3UONTRS0zzaaH_FLw-7" value="Protobuf files en Named Pipes (Libraries)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Whz3UONTRS0zzaaH_FLw-6" vertex="1" connectable="0">
           <mxGeometry x="-0.2425" relative="1" as="geometry">
-            <mxPoint x="-100" y="10" as="offset" />
+            <mxPoint x="-110" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Whz3UONTRS0zzaaH_FLw-1" value="UserProgram.exe" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
