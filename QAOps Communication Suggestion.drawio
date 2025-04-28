@@ -71,6 +71,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yKAPl4sxNkq1IPUFVivm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WvYBxX-h6tSdPv9BnkZN-24" target="WvYBxX-h6tSdPv9BnkZN-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yKAPl4sxNkq1IPUFVivm-4" value="CICD.Tools.DataMinerHotFix + Upload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yKAPl4sxNkq1IPUFVivm-1">
+          <mxGeometry x="-0.4888" relative="1" as="geometry">
+            <mxPoint x="96" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WvYBxX-h6tSdPv9BnkZN-24" value="Client/Pipeline" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -157,7 +165,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WvYBxX-h6tSdPv9BnkZN-70" value="Azure DAAS Images &amp;amp; Upgrade Creation" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="1" vertex="1">
-          <mxGeometry x="650" y="110" width="78" height="42" as="geometry" />
+          <mxGeometry x="632" y="90" width="78" height="42" as="geometry" />
         </mxCell>
         <mxCell id="WvYBxX-h6tSdPv9BnkZN-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.375;entryY=1;entryDx=0;entryDy=0;" parent="1" source="WvYBxX-h6tSdPv9BnkZN-24" target="WvYBxX-h6tSdPv9BnkZN-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -185,7 +193,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WvYBxX-h6tSdPv9BnkZN-83" value="Advantages" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="50" width="140" height="120" as="geometry">
+          <mxGeometry x="25" y="20" width="140" height="120" as="geometry">
             <mxRectangle x="190" y="50" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
